@@ -4,7 +4,7 @@
 Drones + IA para **detectar perros y personas en entornos naturales**, generar **alertas tempranas** y producir **estadísticas por zonas** que ayuden a priorizar rescates y campañas de concienciación.
 
 > **Estado:** prototipo funcional · Curso/Concurso · En evolución
-
+https://youtu.be/AUia8MqIfbw
 ---
 
 ## ✨ Objetivo
